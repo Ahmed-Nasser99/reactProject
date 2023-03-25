@@ -1,7 +1,12 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
+import "../node_modules/bootstrap/js/dist/dropdown";
+import $ from "jquery";
 
 export default function Navbar() {
+  function closeButton() {
+    $("#navbarResponsive")[0].classList.toggle("d-block");
+  }
   return (
     <nav
       className="navbar navbar-expand-lg bg-Nav text-uppercase fixed-top"
@@ -12,6 +17,8 @@ export default function Navbar() {
           Start React
         </Link>
         <button
+          onClick={closeButton}
+          id="dropNav"
           className="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded"
           type="button"
           data-toggle="collapse"
