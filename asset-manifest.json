@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactProject/static/css/main.8e83d993.css",
+    "main.js": "/reactProject/static/js/main.beb5e0dc.js",
+    "static/js/787.c1112931.chunk.js": "/reactProject/static/js/787.c1112931.chunk.js",
+    "static/media/fa-solid-900.ttf": "/reactProject/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/reactProject/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/reactProject/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/reactProject/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/reactProject/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/cabin.png": "/reactProject/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/reactProject/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/reactProject/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/reactProject/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/submarine.png": "/reactProject/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/reactProject/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/reactProject/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/reactProject/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/reactProject/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/reactProject/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/reactProject/index.html",
+    "main.8e83d993.css.map": "/reactProject/static/css/main.8e83d993.css.map",
+    "main.beb5e0dc.js.map": "/reactProject/static/js/main.beb5e0dc.js.map",
+    "787.c1112931.chunk.js.map": "/reactProject/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e83d993.css",
+    "static/js/main.beb5e0dc.js"
+  ]
+}
